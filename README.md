@@ -1,4 +1,4 @@
-## Hi there, I'm Ahmad 👋
+## Hi there, I'm Aria 👋
 
 🎓 Master's Student in AI in Medicine
 🧬 Passionate about bio-integrated systems, advanced gene editing, and AI-powered precision medicine — exploring the future where AI meets biology

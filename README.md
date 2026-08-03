@@ -1,44 +1,85 @@
-## Hi there, I'm Aria 👋
+# Hi there, I'm Aria 👋
 
-🎓 Master's Student in AI in Medicine
-🧬 Passionate about bio-integrated systems, advanced gene editing, and AI-powered precision medicine — exploring the future where AI meets biology
-🤖 Machine Learning | BioNLP | Biomedical Signal & Image Processing
+🎓 M.Sc. Student in Artificial Intelligence in Medicine
 
-- I’m currently pursuing my M.Sc. in **Artificial Intelligence in Medicine**, focusing on the intersection of:
-- **Deep Learning** & **Biomedical Data**
-- **CRISPR gene editing** and **predictive modeling**
-- **Medical Expert systems** & **image processing**
+💡 AI Researcher & Developer passionate about **Medical AI**, **Bioinformatics**, and **Intelligent Healthcare Systems**, applying advanced AI techniques to real-world healthcare challenges.
 
-### 💻 Skills & Tools
-- 🧠 **Languages**: Python, MATLAB  
-- 📦 **ML/DL**: PyTorch, Transformers, scikit-learn, Keras  
-- 📊 **Data**: Pandas, NumPy, Seaborn, Matplotlib  
-- 🧬 **BioTools**: BioPython, PubMedBERT, HuggingFace  
-- 🧪 **CRISPR modeling**: sgRNA design, off-target prediction (under exploration)  
-- 🖼 **Image & Signal Processing**: OpenCV, SciPy
-
-### 🧪 Current Projects
-- 🧬 **AI-driven CRISPR design for iPSC therapies**  
-- 🧠 **Biomedical NER with PubMedBERT** 
-- 🧾 **ECG Signal Analysis with Classical & Deep Methods**  
-- 📊 **Medical Image Enhancement**
-  
-🌱 I’m currently focused on:
-- Machine learning and predictive modeling in medicine
-- Named Entity Recognition in biomedical texts
-- Deep learning for medical image processing
-
-👯 Open to collaboration on:
-- Research-driven AI applications in medical data
-- Efficient NLP architectures for clinical use
-
-🧠 Also open to:
-- Exploring applications of AI beyond medicine, including general NLP, computer vision, and multimodal learning
-
-### 📫 Let's Connect!
-- 🔗 [LinkedIn]: (https://www.linkedin.com/in/ahmad-sourtiji-paknezhad-353842373/)
-- 💌 Email: a.s.paknezhad.1@gmail.com
+🧬 I enjoy building intelligent systems that bridge machine learning and biology, with interests spanning **bio-integrated systems**, **advanced gene editing**, and **AI-powered precision medicine**—exploring the future where AI meets biology.
 
 ---
-⭐️ Feel free to explore my projects, give feedback, or collaborate. I'm always open to research and development opportunities!
--->
+
+## 🚀 Research Interests
+
+- 🏥 Medical Artificial Intelligence
+- 🧬 Bioinformatics & Computational Biology
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 🧠 Explainable Artificial Intelligence (XAI)
+- 📈 Predictive Modeling for Healthcare
+- 🔬 Precision Medicine & Intelligent Biomedical Systems
+
+---
+
+## 💻 Skills & Tools
+
+### 🖥️ Programming
+- Python
+- MATLAB
+
+### 🤖 Machine Learning & Deep Learning
+- TensorFlow / Keras
+- PyTorch
+- Scikit-learn
+- Transformers
+
+### 📊 Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### ⚙️ Other Technologies
+- OpenCV
+- Arduino
+- Git
+-Docker
+
+---
+
+## 🚀 Current Projects
+
+- 🤖 Foundation Models for Computational Biology
+- 🧠 Biomedical Named Entity Recognition using PubMedBERT
+- 📊 Explainable AI for Medical Prediction Systems
+- 🩺 Machine Learning-based Diabetes Prediction and Classification
+- 📡 AIoMT-based Intelligent Vital Signs Monitoring using ESP32, Biomedical Sensors & Edge AI
+- 🧬 M.Sc. Thesis: Generative AI for sgRNA Design in CRISPR-Cas Gene Editing Systems
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Advanced Deep Learning
+- 👁️ Computer Vision
+- ⚡ Efficient AI Systems for Healthcare
+
+---
+
+## 🤝 Open to Collaboration
+
+- 🏥 Medical AI & Healthcare Analytics
+- 🧬 Bioinformatics and Computational Biology
+- 🤖 Deep Learning Research Projects
+- 📡 AI for IoT & Embedded Intelligent Systems
+- 🌍 Open-source AI Projects and Research Collaborations
+
+---
+
+## 📫 Let's Connect!
+
+💌 **Email:**  
+**a.s.paknezhad.1@gmail.com**
+
+---
+
+⭐️ Feel free to explore my repositories, share your feedback, or collaborate on exciting research and development projects. I'm always interested in innovative ideas at the intersection of AI, healthcare, and computational science.

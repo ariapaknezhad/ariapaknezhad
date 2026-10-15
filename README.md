@@ -2,7 +2,8 @@
 
 <img src="./assets/banner.svg" alt="Aria — AI in Medicine, retrofuturist banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=760&lines=Great+Scott!+The+future+is+here+%E2%9A%A1;Medical+AI+%C3%97+Bioinformatics+%C3%97+Gene+Editing+%F0%9F%A7%AC;Rebel+yell+%E2%80%94+more%2C+more%2C+more+%F0%9F%8E%B8;I'll+be+back+%F0%9F%A6%BE" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=760&lines=Medical+Artificial+Intelligence;Engineering+Tomorrow%27s+Intelligence;The+Future+Is+Built%2C+Not+Predicted.;Deep+Learning+for+Real-World+Challenges" />
+
 
 </div>
 

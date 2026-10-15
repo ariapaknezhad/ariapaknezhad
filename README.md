@@ -14,7 +14,7 @@ Hi there, I'm **Aria** 👋
 
 💡 AI Researcher & Developer passionate about **Medical AI**, **Bioinformatics**, and **Intelligent Healthcare Systems**, applying advanced AI techniques to real-world healthcare challenges.
 
-🧬 I build intelligent systems that bridge machine learning and biology, with interests spanning **bio-integrated systems**, **advanced gene editing**, and **AI-powered precision medicine**. The 80s dreamed of a future where technology meets biology, and I'm working on making it real. 🚗⚡
+🧬 I build intelligent systems that bridge machine learning and biology, with interests spanning **bio-integrated systems**, **advanced gene editing**, and **AI-powered precision medicine**. Interested in building the future of AI and biology through a retro-futuristic lens. 🌅🚗
 
 ## 🖥️ AI Core
 <div align="center">

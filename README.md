@@ -18,7 +18,7 @@ Hi there, I'm **Aria** 👋
 
 ## 🖥️ AI Core
 <div align="center">
-<img src="./assets/terminal.svg" alt="CRT terminal" width="90%" />
+<img src="./terminal.svg" alt="CRT terminal" width="90%" />
 </div>
 
 ## 🔭 Research Interests
